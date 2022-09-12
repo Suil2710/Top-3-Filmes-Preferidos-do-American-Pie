@@ -1,0 +1,52 @@
+body{
+    background-color: whitesmoke;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#Menu{
+    display: block;
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+
+#IconHouse{
+    position: relative;
+    bottom: 60px;
+    left: 20px;
+}
+
+#Arrow{
+    position: relative;
+    left: 96%;
+    bottom: 120px;
+}
+
+hr{
+    position: relative;
+    color: black;
+    bottom: 60px;
+    background-color: none;
+}
+
+h1{
+    display: block;
+    position: relative;
+    text-align: center;
+    bottom: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    text-align: center;
+    
+}
+
+.Filme{
+    text-align: center;
+}
